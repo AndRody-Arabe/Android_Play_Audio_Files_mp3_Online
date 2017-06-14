@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- اسم التطبيق -->
+    <string name="app_name">القرآن الكريم</string>
+
+    <!-- النصوص المستخدمة في التطبيق -->
+    <string name="text_1">عذراً, الرابط غير صالح</string>
+    <string name="text_2">تم الإيقاف</string>
+    <string name="text_3">جاري التشغيل ...</string>
+    <string name="text_4">يتم الآن تجهيز الصوت ...</string>
+    <string name="text_5">انتهى المقطع الصوتي</string>
+
+
+    <!-- اسماء الملفات الصوتية وروابطها -->
+    <string name="Sura1">سورة الفاتحة</string>
+    <string name="Link1">0000</string>
+
+
+    <string name="Sura2">سورة البقرة</string>
+    <string name="Link2">0000</string>
+
+
+    <string name="Sura3">سورة آل عمران</string>
+    <string name="Link3">0000</string>
+
+    <string name="Sura4">سورة النساء</string>
+    <string name="Link4">0000</string>
+
+
+    <string name="Sura5">سورة المائدة</string>
+    <string name="Link5">0000</string>
+
+
+    <string name="Sura6">سورة الأنعام</string>
+    <string name="Link6">0000</string>
+
+    <string name="Sura7">سورة الأعراف</string>
+    <string name="Link7">0000</string>
+
+
+    <string name="Sura8">سورة الأنفال</string>
+    <string name="Link8">0000</string>
+
+
+    <string name="Sura9">سورة التوبة</string>
+    <string name="Link9">0000</string>
+
+    <string name="Sura10">سورة يونس</string>
+    <string name="Link10">0000</string>
+
+    <string name="Sura11">سورة هود</string>
+    <string name="Link11">0000</string>
+
+
+    <string name="Sura12">سورة يوسف</string>
+    <string name="Link12">0000</string>
+
+
+    <string name="Sura13">سورة الرعد</string>
+    <string name="Link13">0000</string>
+
+    <string name="Sura14">سورة إبراهيم</string>
+    <string name="Link14">0000</string>
+
+
+    <string name="Sura15">سورة الحجر</string>
+    <string name="Link15">0000</string>
+
+
+    <string name="Sura16">سورة النحل</string>
+    <string name="Link16">0000</string>
+
+    <string name="Sura17">سورة الإسراء</string>
+    <string name="Link17">0000</string>
+
+
+    <string name="Sura18">سورة الكهف</string>
+    <string name="Link18">0000</string>
+
+
+    <string name="Sura19">سورة مريم</string>
+    <string name="Link19">0000</string>
+
+    <string name="Sura20">سورة طه</string>
+    <string name="Link20">0000</string>
+
+    <string name="Sura21">سورة الأنبياء</string>
+    <string name="Link21">0000</string>
+
+
+    <string name="Sura22">سورة الحج</string>
+    <string name="Link22">0000</string>
+
+
+    <string name="Sura23">سورة المؤمنون</string>
+    <string name="Link23">0000</string>
+
+    <string name="Sura24">سورة النور</string>
+    <string name="Link24">0000</string>
+
+
+    <string name="Sura25">سورة الفرقان</string>
+    <string name="Link25">0000</string>
+
+
+    <string name="Sura26">سورة الشعراء</string>
+    <string name="Link26">0000</string>
+
+    <string name="Sura27">سورة النمل</string>
+    <string name="Link27">0000</string>
+
+
+    <string name="Sura28">سورة القصص</string>
+    <string name="Link28">0000</string>
+
+
+    <string name="Sura29">سورة العنكبوت</string>
+    <string name="Link29">0000</string>
+
+    <string name="Sura30">سورة الروم</string>
+    <string name="Link30">0000</string>
+
+    <string name="Sura31">سورة لقمان</string>
+    <string name="Link31">0000</string>
+
+
+    <string name="Sura32">سورة السجدة</string>
+    <string name="Link32">0000</string>
+
+
+    <string name="Sura33">سورة الأحزاب</string>
+    <string name="Link33">0000</string>
+
+    <string name="Sura34">سورة سبأ</string>
+    <string name="Link34">0000</string>
+
+
+    <string name="Sura35">سورة فاطر</string>
+    <string name="Link35">0000</string>
+
+
+    <string name="Sura36">سورة يس</string>
+    <string name="Link36">0000</string>
+
+    <string name="Sura37">سورة الصافات</string>
+    <string name="Link37">0000</string>
+
+
+    <string name="Sura38">سورة ص</string>
+    <string name="Link38">0000</string>
+
+
+    <string name="Sura39">سورة الزمر</string>
+    <string name="Link39">0000</string>
+
+    <string name="Sura40">سورة غافر</string>
+    <string name="Link40">0000</string>
+
+    <string name="Sura41">سورة فصلت</string>
+    <string name="Link41">0000</string>
+
+
+    <string name="Sura42">سورة الشورى</string>
+    <string name="Link42">0000</string>
+
+
+    <string name="Sura43">سورة الزخرف</string>
+    <string name="Link43">0000</string>
+
+    <string name="Sura44">سورة الدخان</string>
+    <string name="Link44">0000</string>
+
+
+    <string name="Sura45">سورة الجاثية</string>
+    <string name="Link45">0000</string>
+
+
+    <string name="Sura46">سورة الأحقاف</string>
+    <string name="Link46">0000</string>
+
+    <string name="Sura47">سورة محمد</string>
+    <string name="Link47">0000</string>
+
+
+    <string name="Sura48">سورة الفتح</string>
+    <string name="Link48">0000</string>
+
+
+    <string name="Sura49">سورة الحجرات</string>
+    <string name="Link49">0000</string>
+
+    <string name="Sura50">سورة ق</string>
+    <string name="Link50">0000</string>
+
+    <string name="Sura51">سورة الذاريات</string>
+    <string name="Link51">0000</string>
+
+
+    <string name="Sura52">سورة الطور</string>
+    <string name="Link52">0000</string>
+
+
+    <string name="Sura53">سورة النجم</string>
+    <string name="Link53">0000</string>
+
+    <string name="Sura54">سورة القمر</string>
+    <string name="Link54">0000</string>
+
+
+    <string name="Sura55">سورة الرحمن</string>
+    <string name="Link55">0000</string>
+
+
+    <string name="Sura56">سورة الواقعة</string>
+    <string name="Link56">0000</string>
+
+    <string name="Sura57">سورة الحديد</string>
+    <string name="Link57">0000</string>
+
+
+    <string name="Sura58">سورة المجادلة</string>
+    <string name="Link58">0000</string>
+
+
+    <string name="Sura59">سورة الحشر</string>
+    <string name="Link59">0000</string>
+
+    <string name="Sura60">سورة الممتحنة</string>
+    <string name="Link60">0000</string>
+
+    <string name="Sura61">سورة الصف</string>
+    <string name="Link61">0000</string>
+
+
+    <string name="Sura62">سورة الجمعة</string>
+    <string name="Link62">0000</string>
+
+
+    <string name="Sura63">سورة المنافقون</string>
+    <string name="Link63">0000</string>
+
+    <string name="Sura64">سورة التغابن</string>
+    <string name="Link64">0000</string>
+
+
+    <string name="Sura65">سورة الطلاق</string>
+    <string name="Link65">0000</string>
+
+
+    <string name="Sura66">سورة التحريم</string>
+    <string name="Link66">0000</string>
+
+    <string name="Sura67">سورة الملك</string>
+    <string name="Link67">0000</string>
+
+
+    <string name="Sura68">سورة القلم</string>
+    <string name="Link68">0000</string>
+
+
+    <string name="Sura69">سورة الحاقة</string>
+    <string name="Link69">0000</string>
+
+    <string name="Sura70">سورة المعارج</string>
+    <string name="Link70">0000</string>
+
+    <string name="Sura71">سورة نوح</string>
+    <string name="Link71">0000</string>
+
+
+    <string name="Sura72">سورة الجن</string>
+    <string name="Link72">0000</string>
+
+
+    <string name="Sura73">سورة المزمل</string>
+    <string name="Link73">0000</string>
+
+    <string name="Sura74">سورة المدثر</string>
+    <string name="Link74">0000</string>
+
+
+    <string name="Sura75">سورة القيامة</string>
+    <string name="Link75">0000</string>
+
+
+    <string name="Sura76">سورة الإنسان</string>
+    <string name="Link76">0000</string>
+
+    <string name="Sura77">سورة المرسلات</string>
+    <string name="Link77">0000</string>
+
+
+    <string name="Sura78">سورة النبأ</string>
+    <string name="Link78">0000</string>
+
+
+    <string name="Sura79">سورة النازعات</string>
+    <string name="Link79">0000</string>
+
+    <string name="Sura80">سورة عبس</string>
+    <string name="Link80">0000</string>
+
+    <string name="Sura81">سورة التكوير</string>
+    <string name="Link81">0000</string>
+
+
+    <string name="Sura82">سورة الانفطار</string>
+    <string name="Link82">0000</string>
+
+
+    <string name="Sura83">سورة المطففين</string>
+    <string name="Link83">0000</string>
+
+    <string name="Sura84">سورة الانشقاق</string>
+    <string name="Link84">0000</string>
+
+
+    <string name="Sura85">سورة البروج</string>
+    <string name="Link85">0000</string>
+
+
+    <string name="Sura86">سورة الطارق</string>
+    <string name="Link86">0000</string>
+
+    <string name="Sura87">سورة الأعلى</string>
+    <string name="Link87">0000</string>
+
+
+    <string name="Sura88">سورة الغاشية</string>
+    <string name="Link88">0000</string>
+
+
+    <string name="Sura89">سورة الفجر</string>
+    <string name="Link89">0000</string>
+
+    <string name="Sura90">سورة البلد</string>
+    <string name="Link90">0000</string>
+
+    <string name="Sura91">سورة الشمس</string>
+    <string name="Link91">0000</string>
+
+
+    <string name="Sura92">سورة الليل</string>
+    <string name="Link92">0000</string>
+
+
+    <string name="Sura93">سورة الضحى</string>
+    <string name="Link93">0000</string>
+
+    <string name="Sura94">سورة الشرح</string>
+    <string name="Link94">0000</string>
+
+
+    <string name="Sura95">سورة التين</string>
+    <string name="Link95">0000</string>
+
+
+    <string name="Sura96">سورة العلق</string>
+    <string name="Link96">0000</string>
+
+    <string name="Sura97">سورة القدر</string>
+    <string name="Link97">0000</string>
+
+
+    <string name="Sura98">سورة البينة</string>
+    <string name="Link98">0000</string>
+
+
+    <string name="Sura99">سورة الزلزلة</string>
+    <string name="Link99">0000</string>
+
+    <string name="Sura100">سورة العاديات</string>
+    <string name="Link100">0000</string>
+
+    <string name="Sura101">سورة القارعة</string>
+    <string name="Link101">0000</string>
+
+
+    <string name="Sura102">سورة التكاثر</string>
+    <string name="Link102">0000</string>
+
+
+    <string name="Sura103">سورة العصر</string>
+    <string name="Link103">0000</string>
+
+    <string name="Sura104">سورة الهمزة</string>
+    <string name="Link104">0000</string>
+
+
+    <string name="Sura105">سورة الفيل</string>
+    <string name="Link105">0000</string>
+
+
+    <string name="Sura106">سورة قريش</string>
+    <string name="Link106">0000</string>
+
+    <string name="Sura107">سورة الماعون</string>
+    <string name="Link107">0000</string>
+
+
+    <string name="Sura108">سورة الكوثر</string>
+    <string name="Link108">0000</string>
+
+
+    <string name="Sura109">سورة الكافرون</string>
+    <string name="Link109">0000</string>
+
+    <string name="Sura110">سورة النصر</string>
+    <string name="Link110">0000</string>
+
+    <string name="Sura111">سورة المسد</string>
+    <string name="Link111">0000</string>
+
+
+    <string name="Sura112">سورة الإخلاص</string>
+    <string name="Link112">0000</string>
+
+
+    <string name="Sura113">سورة الفلق</string>
+    <string name="Link113">0000</string>
+
+    <string name="Sura114">سورة الناس</string>
+    <string name="Link114">0000</string>
+
+
+
+
+</resources>
